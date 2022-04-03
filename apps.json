@@ -11,7 +11,7 @@
       "id": "question-answering",
       "name": "Question Answering",
       "description": "A basic service that learns facts and answers questions with them.",
-      "url": "https://github.com/steamship-apps/question-answering"
+      "url": "https://github.com/steamship-apps/question-answering",
     }
   ]
 }
