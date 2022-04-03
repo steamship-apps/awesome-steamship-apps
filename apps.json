@@ -5,13 +5,13 @@
       "id": "empty-app",
       "name": "Empty App",
       "description": "A empty app shell.",
-      "url": "https://github.com/steamship-apps/empty-app",
+      "url": "https://github.com/steamship-apps/empty-app"
     },
     {
       "id": "question-answering",
       "name": "Question Answering",
       "description": "A basic service that learns facts and answers questions with them.",
-      "url": "https://github.com/steamship-apps/question-answering",
+      "url": "https://github.com/steamship-apps/question-answering"
     }
   ]
 }
